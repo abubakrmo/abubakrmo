@@ -8,8 +8,6 @@ I am an ambitious software engineer
 ---
 
 ### 🧰 Languages and Tools
-
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -21,9 +19,23 @@ I am an ambitious software engineer
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padd;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<br>
+<br>
 
-<br>
-<br>
+#
+
+### 📊 Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=abubakrmo&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=abubakrmo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakrmo&show_icons=true" />
+</picture>
 
 #
 <!--
