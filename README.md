@@ -3,6 +3,7 @@
 **`Full stack developer and Software Engineer`**
 
 I am an ambitious software engineer with a bachelors degree in Computer Science and a masters degree in Software Engineering. I'm very passionate about programming and deeply fascinated by how it works. In my spare time I attend tech meetups to network and connect with like-minded individuals and stay abreast of emerging technologies. I also enjoy taking on complex tasks,  as I view each intricate problem as an opportunity to push the boundaries of my skills and gain deeper insights into the underlying concepts.
+Additionally, I possess a keen eye for design, when developing an application, I like to pay equal attention to both functionalities of the application and its usability.
 
 Fuelled by my passion for software engineering, I am dedicated to making a meaningful impact through my work. With a blend of technical and non technical skills that I've picked up in my journey so far, I am capable of undertaking challenging projects and deliver exceptional results.
 
