@@ -27,7 +27,7 @@ Fuelled by my passion for software engineering, I am dedicated to making a meani
 #
 
 ### 👨🏾‍💻 RSB - Designed Using Figma
-<p>This project designed using Figma focused on the development of a prototype application with the primary objective of reducing sedentary behaviour within its intended user group.</p>
+<p>This project designed using Figma focused on the development of a prototype application with the primary objective of reducing sedentary behaviour within its intended user group. The project can be accessed <a href="https://www.figma.com/proto/KWOsjdhtIh2HTx7VK3sAiq/RSB?page-id=0%3A1&type=design&node-id=47-159&viewport=1448%2C-719%2C0.37&t=AuYALepNXEjVz4bI-1&scaling=scale-down&starting-point-node-id=6%3A4&mode=design">here</a>. </p>
 <img src="https://github.com/abubakrmo/abubakrmo/blob/master/RSB.gif" width="200" >
 
 #
