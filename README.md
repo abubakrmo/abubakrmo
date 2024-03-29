@@ -12,6 +12,7 @@ Fuelled by my passion for software engineering, I am dedicated to making a meani
 ### 🛠️ Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="Kotlin" width="25px" style="padding-right:10px; height: 40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
