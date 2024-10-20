@@ -20,8 +20,6 @@ Fuelled by my passion for software engineering, I am dedicated to making a meani
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=firebase" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jenkins" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Kotlin" width="25px" style="padding-right:10px; height: 40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-<img align="left" alt="Php" width="30px" style="padding-right:10px; height: 40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
 <img align="left" alt="MySQL" width="60px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
