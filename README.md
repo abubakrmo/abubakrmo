@@ -2,9 +2,15 @@
 
 **`Full stack developer and Software Engineer`**
 
-I am an ambitious software engineer with a bachelors degree in Computer Science and a masters degree in Software Engineering. In my spare time I attend tech meetups to network and connect with like-minded individuals and stay abreast of emerging technologies.
+🌟 Passionate about turning ideas into reality, I'm a software engineer with a Bachelor's in Computer Science and a Master's in Software Engineering. I love the challenge of building functional, user-friendly applications and am constantly excited by how technology can simplify and enhance people's lives.
 
-Fuelled by my passion for software engineering, I am dedicated to making a meaningful impact through my work.
+🎒 Whether diving into backend systems or fine-tuning the user experience, I approach each project with curiosity and a commitment to delivering something that not only works but feels great to use. I believe form and function should go hand in hand, and I bring an eye for design to each solution I create.
+
+💼 Fueled by my passion for software engineering, I’m all about making a positive impact through my work and continually growing my skills.
+
+🌐 When I'm not coding, you'll find me at tech meetups, where I love connecting with like-minded folks, exploring the latest tech, and picking up new skills.
+
+🏃🏾‍♂️ Outside of tech, I'm a big fan of basketball and football, both as a player and a fan, and I enjoy running to stay active.
 
 ---
 
