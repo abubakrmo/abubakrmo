@@ -2,6 +2,8 @@
 
 **`Full stack developer and Software Engineer`**
 
+👨🏾‍💻 Currently learning AWS!
+
 🌟 Passionate about turning ideas into reality, I'm a software engineer with a Bachelor's in Computer Science and a Master's in Software Engineering. I love the challenge of building functional, user-friendly applications and am constantly excited by how technology can simplify and enhance people's lives.
 
 🎒 Whether diving into backend systems or fine-tuning the user experience, I approach each project with curiosity and a commitment to delivering something that not only works but feels great to use. I believe form and function should go hand in hand, and I bring an eye for design to each solution I create.
@@ -11,6 +13,7 @@
 🌐 When I'm not coding, you'll find me at tech meetups, where I love connecting with like-minded folks, exploring the latest tech, and picking up new skills.
 
 🏃🏾‍♂️ Outside of tech, I'm a big fan of basketball and football, both as a player and a fan, and I enjoy running to stay active.
+
 
 ---
 
