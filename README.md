@@ -2,7 +2,7 @@
 
 **`Full stack developer and Software Engineer`**
 
-👨🏾‍💻 Currently learning AWS!
+👨🏾‍💻 Currently learning AWS and reading Seven Tools For Life!
 
 🌟 Passionate about turning ideas into reality, I'm a software engineer with a Bachelor's in Computer Science and a Master's in Software Engineering. I love the challenge of building functional, user-friendly applications and am constantly excited by how technology can simplify and enhance people's lives.
 
