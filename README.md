@@ -2,7 +2,7 @@
 
 **`Full stack developer and Software Engineer`**
 
-👨🏾‍💻 Currently learning AWS and reading Seven Tools For Life!
+👨🏾‍💻 Currently learning AWS and reading Be Useful, Seven Tools For Life!
 
 🌟 Passionate about turning ideas into reality, I'm a software engineer with a Bachelor's in Computer Science and a Master's in Software Engineering. I love the challenge of building functional, user-friendly applications and am constantly excited by how technology can simplify and enhance people's lives.
 
@@ -30,7 +30,6 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jenkins" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="MySQL" width="60px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
-<img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <br>
