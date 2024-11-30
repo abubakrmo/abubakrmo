@@ -4,7 +4,7 @@
 
 👨🏾‍💻 Currently learning AWS and reading Be Useful, Seven Tools For Life!
 
-🌟 Passionate about turning ideas into reality, I'm a software engineer with a Bachelor's in Computer Science and a Master's in Software Engineering. I love the challenge of building functional, user-friendly applications and am constantly excited by how technology can simplify and enhance people's lives.
+🌟 Passionate about turning ideas into reality, I'm a full stack developer with a Bachelor's in Computer Science and a Master's in Software Engineering. I love the challenge of building functional, user-friendly applications and am constantly excited by how technology can simplify and enhance people's lives.
 
 🎒 Whether diving into backend systems or fine-tuning the user experience, I approach each project with curiosity and a commitment to delivering something that not only works but feels great to use. I believe form and function should go hand in hand, and I bring an eye for design to each solution I create.
 
