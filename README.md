@@ -18,16 +18,16 @@
 ---
 
 ### 🛠️ Languages and Tools
-<img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=typescript" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=expressjs" />
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=typescript" />
+<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
+<img align="left" alt="Expressjs" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=expressjs" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jest" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vitest" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=firebase" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jenkins" />
+<img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java"/>
+<img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jest" />
+<img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vitest" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=firebase" />
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jenkins" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="MySQL" width="60px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
